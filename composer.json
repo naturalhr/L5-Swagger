@@ -31,7 +31,7 @@
         "type": "vcs",
         "url": "git@github.com:/naturalhr/swagger-ui.git"
     }
-],
+  ],
   "suggest": {
     "zircote/swagger-php:~2.0": "!!! Require Swagger-PHP ~2.0 for @SWG annotations support !!!"
   },
